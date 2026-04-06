@@ -1,0 +1,30 @@
+# Web framework
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+
+# AI and agents
+openai==1.54.4
+langgraph==0.2.50
+langchain==0.3.7
+langchain-openai==0.2.7
+
+# Database
+supabase==2.9.1
+
+# Data validation
+pydantic==2.9.2
+pydantic-settings==2.6.1
+
+# HTTP client
+httpx==0.27.2
+
+# Logging
+structlog==24.4.0
+
+# Environment
+python-dotenv==1.0.1
+
+# Testing
+pytest==8.3.5
+pytest-asyncio==0.24.0
+httpx==0.27.2
